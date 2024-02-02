@@ -92,6 +92,13 @@ footer {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
+    transition: 0.4s ease-in-out;
+}
+
+.contact:hover {
+    background: linear-gradient(to right, #5579ba, #41a377);
+    transition: 0.2s ease-in-out;
+    border-radius: 30%;
 }
 
 .in {
